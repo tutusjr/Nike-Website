@@ -1,4 +1,4 @@
-import ReviewCard from "../components/reviewCard";
+import ReviewCard from "../components/ReviewCard";
 import { reviews } from "../constants";
 
 
